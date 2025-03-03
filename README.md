@@ -10,6 +10,6 @@
 
 🤝 I’m looking to collaborate on projects involving data analytics, machine learning models, and data visualization.
 
-📫 You can reach me at ar00062@mix.wvu.edu
+📫 You can reach me at asif.rahman00014@gmail.com
 
 Let’s connect and turn data into actionable insights! 💡
