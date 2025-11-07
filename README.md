@@ -4,7 +4,7 @@
 
 📊 My expertise lies in exploratory data analysis, predictive modeling, and statistical programming.
 
-🚀 Currently, I’m working as a Research Analyst at West Virginia University Research Medicine, where I analyze complex healthcare datasets to drive impactful insights and innovations.
+🚀 Currently, I’m working as a Research Analyst at West Virginia University Medicine, where I analyze complex healthcare datasets to drive impactful insights and innovations.
 
 🌱 I’m always learning and currently exploring advanced techniques in machine learning and data analytics.
 
