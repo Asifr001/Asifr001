@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Asif Rahman
 
-🔍 I’m passionate about data science and analytics, machine learning, and advanced manufacturing.
+🔍 I’m passionate abou tdata science, advanced analytics, and applying machine learning to solve complex, real-world problems.
 
 📊 My expertise lies in exploratory data analysis, predictive modeling, and statistical programming.
 
